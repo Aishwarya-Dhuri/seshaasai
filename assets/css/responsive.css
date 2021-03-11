@@ -1,0 +1,1113 @@
+body,html{
+  overflow-x: hidden;
+}
+@media screen and (max-width:1024px) {
+.partnercompany .swiper-button-next{
+      right: 10px;
+}
+.partnercompany .swiper-button-prev {
+  left: 10px;
+}
+.secure-print-products-list {
+  padding-left: 5%;
+}
+.secure-slider {
+    margin-top: 5%;
+    width: 50%;
+    height: 136vh;
+}
+.secure-print-products .secure-slider {
+  width: 100%;
+}
+.secure-slider img {
+  width: 100%;
+  height: auto;
+}
+.container {
+    /*width: 970px;*/
+}
+.testimonialsection ul {
+  width: 100%;
+  float: left;
+  margin-bottom: 20px;
+}
+.about-us-left{
+   padding-left:4%;
+ }
+.about-us-right {
+    padding-right:4%;
+}
+.botfooter .col-xs-12 {
+  width: 100%;
+}
+.botfooter .col-xs-12 p {
+  text-align: left;
+}
+.contactbg{
+  background-size: 147%;
+}
+#fixed-social {
+  top: 40%;
+}
+.partnercompany .partnerlogo .swiper-slide img {
+  margin: 0 auto;
+}
+.partnercompany .swiper-button-next, .swiper-button-prev {
+  width: 20px;
+}
+.brand {
+  padding-left: 0px;
+}
+.gst-genie-top-header .col-md-4 a {
+  margin-left: 0px;
+}
+.botfooter p {
+  line-height: 22px;
+}
+.secureprint-section h3{
+      padding-top: 9.5%;
+}
+.contactform-section h3{
+  padding-top: 11.1%;
+  margin-left: 60px;
+}
+.contactform-section h5{
+  padding-left: 17%;
+    padding-right: 10%;
+}
+.contactbtn{
+  float: left;
+  margin-top: 2%;
+      margin-left: 2%;
+}
+
+}
+@media screen and (max-width:1000px){
+  .testimonialfiled .personimg img {
+    height: 100%;
+  }
+  .testimonialfiled {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 20px;
+    float: none;
+  }
+  .secureprint-section {
+    width: 96%;
+    margin-bottom: 5%;
+}
+    .software-head-btn {
+        margin-left:0;
+    }
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+        margin-top: 76px;
+    }
+    .compliancebtn .contactbtn {
+        margin-left:2%;
+    }
+    .complaincesolution {
+            margin-bottom: 2%;
+    }
+}
+@media screen and (max-width:991px){
+  .secureproduct .proceslist ul li{
+        width: 29%;
+  }
+  .other-loc h3{
+        padding-top: 42px;
+  }
+  .secureproduct .proceslist.contactinfo ul li{
+    width: 45%;
+float: left;
+  }
+  .contactform-section h5 {
+      padding-left: 9%;
+      padding-right: 0
+    }
+}
+@media screen and (max-width:989px){
+    .botfooter p{
+      text-align: left;
+    }
+    .menu ul {
+      padding-left: 20px;
+    }
+    .businessbox ul li {
+      margin-right: 47px;
+    }
+    .contactbg {
+      background-size: cover;
+    }
+    .bannersection .swiper-pagination {
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+    }
+    .secure-green-para {
+      margin-top: 0px;
+    }
+    .cor-value-1 {
+        width: 99%;
+        margin-bottom: 3%;
+    }
+    .complaincesolution.secureprint-section h3 {
+            padding-top: 10%;
+    }
+    .complaincefiled {
+         width: 96%;
+    margin-left: 2%;
+
+    }
+    .compliancesection.businessbox ul li {
+    width: 31%;
+    float: left;
+    margin-right: 3%;
+}
+    .Our-Products-heading{
+        margin-left:2%;
+    }
+  .complaincesolution.secureprint-section.other-loc h3 {
+    padding-top: 42px;
+}
+
+}
+@media only screen and (max-width: 970px) {
+  .container {
+    width: auto;
+  }
+  .nav-mobile {
+    display: block;
+  }
+  nav {
+    width: 100%;
+    padding: 55px 0 15px;
+  }
+  nav ul {
+    display: none;
+  }
+  nav ul li {
+    float: none;
+  }
+  nav ul li a {
+    padding: 15px;
+    line-height: 20px;
+  }
+  nav ul li ul li a {
+    padding-left: 30px;
+  }
+
+  .nav-dropdown {
+    position: static;
+    box-shadow: none;
+  }
+  .searchsection {
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .brand {
+    width: 20%;
+  }
+  .businessbox ul li {
+    margin-right: 40px;
+  }
+  .partnerlogo .swiper-slide .img-responsive {
+    margin: 0 auto;
+  }
+  .compliancesection.businessbox ul li {
+    width: 29%;
+    margin-right: 60px;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 35px;
+  }
+    .Softwaresolution {
+        width:96%;
+    }
+    .complaincefiled {
+        width:100%;
+        margin-left:0;
+    }
+    .outsourcingpage.complaincesolution.secureprint-section h3:before {
+            margin-top: 83px;
+    }
+    .bpo-heading {
+        padding-top: 1% !important;
+    }
+}
+@media screen and (max-width:963px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 34px;
+  }
+
+}
+@media screen and (max-width:952px) {
+  .compliancesection.businessbox ul li {
+    width: 28%;
+    margin-right: 72px;
+  }
+  .imagesection, .personimg , .testimonialsection ul li {
+    height: 418px;
+  }
+    .ourporcess ul li {
+        width: 23%;
+    }
+}
+@media screen and (max-width:936px) {
+  .clientsection.compliancesection.businessbox ul li {
+      margin-right: 33px;
+  }
+  .imagesection, .personimg , .testimonialsection ul li {
+    height: 450px;
+  }
+  .gst-genie-top-header .col-md-4 a {
+    height: 72px;
+  }
+}
+@media screen and (max-width:929px) {
+  .compliancesection.businessbox ul li {
+    width: 27%;
+    margin-right: 82px;
+  }
+  .imagesection, .personimg , .testimonialsection ul li {
+    height: 425px;
+  }
+}
+@media screen and (max-width:909px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 32px;
+  }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 73px;
+}
+}
+@media screen and (max-width:900px) {
+    .container {
+        width:848px;
+    }
+    .managementteam ul li {
+      /* min-height: 495px; */
+    }
+    .sectionheading {
+      padding-top: 8%;
+    }
+    .compliancesection.businessbox ul li {
+      width: 28%;
+      margin-right: 65px;
+    }
+    .clientsection.compliancesection.businessbox ul li {
+      margin-right: 30px;
+    }
+    .clientsection.compliancesection.businessbox .complianceproduct img {
+      width: 90%;
+    }
+    .clientsection .complianceproduct {
+      height: 150px;
+    }
+    .testimonialsection ul li p {
+      margin-top: 10px;
+    }
+    .testimonialfiled .imagesection  {
+      width: 25%;
+    }
+    .testimonialfiled .testimonialcontent {
+      width: 75%;
+      padding: 15px;
+    }
+    .imagesection, .personimg, .testimonialsection ul li {
+      height: 270px;
+    }
+    .testimonialcontent.secondtestimonial {
+      padding-right: 32px;
+    }
+    .testimonialfiled .imagesection , .testimonialfiled .imagesection img  {
+      height: auto;
+    }
+    .testimonialfiled .testimonialcontent, .testimonialfiled .imagesection .personimg {
+      border: none;
+    }
+    .testimonialsection ul {
+      border: 1px solid #f05c2c;
+    }
+    .imagesection, .personimg, .testimonialsection ul li {
+      height: auto;
+    }
+    .secureproduct ul li {
+        width: 30%;
+        margin-bottom: 2%;
+      }
+    .smartproject.proceslist ul li {
+      width: 46%;
+      margin-left: 1%;
+    }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 65px;
+}
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 11%;
+}
+}
+
+@media screen and (max-width:884px){
+  .greenarrow.secureprint-section h3:before {
+    top: -16px;
+  }
+  .outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 79px;
+}
+      .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 82px;
+}
+
+}
+@media screen and (max-width:860px){
+    .Softwaresolution {
+        width:94%;
+    }
+}
+@media screen and (max-width:829px){
+  .businessbox ul li {
+    margin-right: 38px;
+  }
+  .boxfield {
+    height: 235px;
+  }
+    .compliance-section {
+    width:97%;
+    }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 78px;
+  }
+
+}
+@media screen and (max-width:800px){
+    .secure-slider img{
+      height: auto;
+    }
+    .secure-print-products-list{
+      width:100%;
+    }
+    .secure-slider{
+      margin-left: 7%;
+      height: auto;
+      margin-bottom: 5%;
+    }
+    .secure-print-products-list ul li{
+        line-height: 25px;
+    }
+     .container {
+       width:auto;
+     }
+    .managementteam ul li:first-child {
+        margin-right:0;
+        margin-left: 0;
+    }
+    .managementteam ul li:last-child {
+        margin-left:0;
+        margin-top: 4%;
+    }
+    .managementteam ul li {
+        width: 95%;
+        min-height:auto;
+        padding-left: 2%;
+    }
+    .noborder {
+        border-bottom: 3px solid #f15c2b !important;
+        min-height:auto!important;
+        padding-bottom:5% !important;
+    }
+    .clientfiled {
+      margin-bottom: 0px;
+    }
+    .botfooter {
+      padding: 5px 10px;
+    }
+    .compliancesection.businessbox ul li {
+      width: 28%;
+      margin-right: 60px;
+    }
+    .clientsection.compliancesection.businessbox ul li {
+      margin-right: 28px;
+    }
+    .secureproduct ul li {
+        width: 42%;
+        margin-left: 3%;
+        margin-bottom: 4%;
+    }
+    .botfooter p {
+        text-align: center;
+    }
+    .secureproduct h4{
+      margin-left: 3%;
+    }
+    .smartproject.proceslist ul li{
+      width: 43%;
+      margin-bottom: 0%;
+    }
+     .Softwaresolution {
+        width:94%;
+        margin-bottom: 0;
+    }
+    #gst-genie-top-header {
+         width: 97%;
+        margin: 0 auto;
+    }
+    .certificateborder {
+       margin: 0 auto;
+       margin-bottom: 3%;
+    }
+    .complaincesolution.secureprint-section h3 {
+        padding-top: 12%;
+      }
+    .compliancebtn .contactbtn {
+          margin-left: 0%;
+        }
+    .secureproduct .proceslist.contactinfo ul li{
+          width: 100%;
+          margin-left: 0;
+    }
+    .contactform-section h5{
+      padding-left: 11%;
+    }
+    .contactinfo ul{
+      margin-left: 0;
+
+    }
+    .corporate-ofc-box{
+      width: 96%;
+    }
+    /* .redcube.purplesolution.pinksolution.complaincesolution.outsourcingpage.secureprint-section.greensolution h3:before{
+          margin-left: 10%;
+    }
+    .complaincesolution.secureprint-section.other-loc h3{
+          padding-left: 6%;
+    } */
+}
+@media screen and (max-width:798px) {
+    .smartproject.proceslist ul li {
+    width: 44%;
+    margin-bottom: 0%;
+    margin-right: 5%;
+}
+
+
+}
+@media screen and (max-width:790px) {
+  .businessbox ul li {
+    margin-right: 36px;
+  }
+  .secure-print-products .secure-slider {
+    width: 90%;
+    margin-left: 0px;
+    margin: 5% auto;
+  }
+  .secure-print-products {
+    width: 100%;
+  }
+}
+@media screen and (max-width:779px) {
+  .compliancesection.businessbox ul li {
+    width: 28%;
+    margin-right: 58px;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 27px;
+  }
+}
+@media screen and (max-width:768px) {
+    .about-us-left {
+        width: 98%;
+        padding-left:3%;
+       padding-bottom: 2%;
+    }
+    .managementteam ul {
+    margin-bottom: 30px;
+    display: block;
+      }
+    .about-us h3 {
+      padding-top: 12%;
+    }
+    .about-us h3:before {
+            top: -15px;
+     }
+    .about-us-right {
+          width: 98%;
+        padding-left:3%;
+    }
+    .complianceproduct p {
+      padding: 0px 10px;
+    }
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+      margin-top: 60px;
+    }
+    .bannersection .swiper-pagination{
+          top: 87%;
+    }
+
+}
+@media screen and (max-width:767px) {
+    .certificatelogo {
+        height: 200px;
+    }
+
+    .isocertificate {
+        height: 200px;
+    }
+
+    .certificateimg {
+        height: 200px;
+    }
+    .Softwaresolution {
+    width:96%;
+    }
+    .software-head-btn {
+    margin-bottom: 2%;
+}
+    .blue-border-left {
+    border-left:none;
+    }
+    .blue-border-right {
+     border-right:none;
+    }
+    .ourporcess ul li {
+    width: 46%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+}
+}
+@media screen and (max-width:756px) {
+  .enqueryfiled.contactbtn {
+    margin-top: 20px;
+  }
+  .reservation-box {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width:755px) {
+  .compliancesection.businessbox ul li {
+    width: 28%;
+    margin-right: 57px;
+  }
+  .complaincesolution.secureprint-section h3:before {
+    height: 135px;
+    top:-14px;
+    background-size: contain;
+  }
+}
+@media screen and (max-width:749px) {
+  .businessbox ul li {
+    margin-right: 34px;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 26px;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 13%;
+}
+}
+@media screen and (max-width:742px) {
+  .compliancesection.businessbox ul li {
+    width: 28%;
+    margin-right: 56px;
+  }
+}
+@media screen and (max-width:729px) {
+  .compliancesection.businessbox ul li {
+    width: 27%;
+    margin-right: 64px;
+  }
+  .complianceproduct {
+    height: 235px;
+  }
+  .complianceproduct img {
+    top: 35%;
+  }
+  .compliancesection.clientsection .complianceproduct img {
+    top: 50%;
+  }
+  .clientsection .complianceproduct {
+      height: 130px;
+  }
+}
+@media screen and (max-width:722px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 25px;
+  }
+  .greenarrow.secureprint-section h3:before {
+    top: -14px;
+  }
+}
+@media screen and (max-width:709px) {
+  .businessbox ul li {
+    margin-right: 32px;
+  }
+  .about-us h3 {
+    padding-top: 12%;
+}
+.compliancesection.businessbox ul li {
+    margin-right: 62px;
+}
+.secureproduct ul li {
+    width: 41%;
+  }
+.Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 50px;
+}
+.bannersection .swiper-pagination{
+     top: 83%;
+}
+}
+@media screen and (max-width:696px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 24px;
+  }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 42px;
+}
+  .compliancesection.businessbox ul li {
+    width: 100%;
+       margin-bottom: 4%;
+}
+  .businessbox ul:first-child li:nth-child(2) .complianceproduct img {
+    width: 30%;
+        top: 50%;
+}
+  .businessbox ul:first-child li:first-child .complianceproduct img {
+     width: 30%;
+        top: 50%;
+}
+    .businessbox.compliancesection ul {
+        margin-bottom:0;
+    }
+    .sectionheading {
+    padding-top: 9%;
+}
+    .proceslist ul li {
+        width: 29%;
+    }
+    .secureproduct .applicationbox ul li {
+            width: 43%;
+    margin-right: 3%;
+    }
+}
+@media screen and (max-width:689px) {
+  .proceslist ul li {
+      width: 95%;
+      float: left;
+      margin-bottom: 4%;
+    }
+    .contactbtn{
+      margin-top: 5%;
+      margin-left: 20px;
+    }
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 50px;
+}
+   .smartcard .smartproduct ul li {
+            width: 45%;
+    }
+}
+@media screen and (max-width:682px) {
+  .compliancesection.businessbox ul li {
+    margin-right: 60px;
+
+}
+}
+@media screen and (max-width:678px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 24px;
+  }
+  .clientsection .complianceproduct {
+    height: 120px;
+  }
+  .complaincesolution.secureprint-section h3:before {
+    top: -13px;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 14%;
+}
+}
+@media screen and (max-width:669px) {
+  .businessbox ul li {
+    margin-right: 30px;
+  }
+  .compliancesection.businessbox ul li {
+    margin-right: 58px;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 23px;
+  }
+}
+@media only screen and (max-width: 643px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 22px;
+  }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 45px;
+}
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 15%;
+}
+}
+@media only screen and (max-width: 640px) {
+  .compliancesection.businessbox ul li {
+    margin-right: 56px;
+  }
+  .gst-genie-top-header .col-md-4 a {
+    margin-top: 0px;
+    padding: 0px;
+    line-height: 72px;
+  }
+  #gst-genie-section .gst-genieecosystem-1 {
+    margin-bottom: 20px;
+  }
+  .gst-genie-top-header .col-md-4 a {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 620px) {
+  .compliancesection.businessbox ul li {
+    margin-right: 54px;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 21px;
+}
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 15%;
+}
+}
+@media only screen and (max-width: 600px) {
+  .searchsection {
+    left: 55%;
+  }
+  .brand {
+    width: 24%;
+  }
+  .businessbox ul li {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  .businessbox ul {
+    margin-bottom: 0px;
+  }
+  .boxfield {
+    height: 330px;
+  }
+  .about-us h3 {
+    padding-top: 16%;
+}
+  .about-us-left {
+    width: 98%;
+    padding-left:4%;
+    padding-bottom: 2%;
+    }
+   .about-us h3:before {
+    top: -11px;
+   }
+    .about-us-right {
+       width: 98%;
+      padding-left:4%;
+    }
+    .compliancesection.businessbox ul li {
+      width: 100%;
+    }
+    .complaincesolution.secureprint-section h3 {
+    padding-top: 16%;
+  }
+    .businessbox.compliancesection.clientsection ul li {
+      margin-bottom: 0px;
+    }
+    .complianceproduct img {
+      top: 50%;
+    }
+    .complaincefiled.businessbox ul li .complianceproduct img {
+      width: auto;
+    }
+    .complaincesolution.secureprint-section h3:before {
+      top: -12px;
+    }
+    .secureproduct ul li {
+        width: 100%;
+        margin-left: 0%;
+        margin-bottom: 4%;
+    }
+    .outsourcingpage.complaincesolution.secureprint-section h3:before{
+      margin-top: 82px;
+    }
+    .clientsection.compliancesection.businessbox ul li {
+        width: 44%;
+        margin-left: 2%;
+        float: left;
+        margin-bottom: 4%;
+    }
+    .clientsection .complianceproduct {
+    height: 135px;
+  }
+    .bannersection img {
+        height:auto !important;
+    }
+    .sectionheading {
+    padding-top: 11%;
+}
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 41px;
+    }
+.swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+  }
+  .swiper-pagination-bullet-active{
+    width: 10px;
+    height: 10px;
+  }
+  .contactform-section h5 {
+    padding-left: 14%;
+}
+}
+@media only screen and (max-width: 589px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 20px;
+  }
+  .clientsection .complianceproduct {
+    height: 100px;
+  }
+  .greenarrow.secureprint-section h3:before {
+    top: -11px;
+  }
+  .smartcard .smartproduct ul li {
+            width: 100%;
+    }
+    .smartproject.proceslist ul li {
+        width: 98%;
+        margin-bottom:4%;
+    }
+  .secureproduct .applicationbox ul li {
+    width: 100%;
+    margin-right: 3%;
+}
+}
+@media only screen and (max-width: 536px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 18px;
+  }
+  .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 77px;
+}
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 18%;
+}
+}
+@media only screen and (max-width: 519px) {
+  .complaincesolution.secureprint-section h3:before {
+    top: -9px;
+  }
+}
+@media only screen and (max-width: 509px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 17px;
+}
+}
+@media only screen and (max-width: 500px) {
+    .about-us h3 {
+    padding-top: 14%;
+    }
+    .bannersection .swiper-pagination{
+      top:80%;
+    }
+    .nav-mobile{
+          top: 0px;
+    }
+    .secureprint-section {
+        margin-bottom: 10%;
+    }
+    .clientsection.compliancesection.businessbox ul li {
+        width: 96%;
+    }
+    .clientsection ul:first-child li:first-child .complianceproduct img {
+        width: 40%;
+    }
+    .clientsection  ul:first-child li:nth-child(2) .complianceproduct img {
+    width: 40%;
+    }
+    .clientsection.compliancesection.businessbox .complianceproduct img {
+    width: 40%;
+    }
+    .clientsection .complianceproduct {
+    height: 135px;
+    }
+    .clientsection.businessbox.compliancesection ul {
+        margin-bottom:2%;
+    }
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+        margin-top: 78px;
+    }
+    .complaincesolution.secureprint-section h3 {
+    padding-top: 20%;
+    }
+    .businessbox ul li{
+      margin-bottom: 30px;
+    }
+    .compliancebtn .contactbtn {
+            margin-top: 0;
+    }
+}
+@media only screen and (max-width: 482px) {
+  .clientsection.compliancesection.businessbox ul li {
+    margin-right: 16px;
+  }
+    .ourporcess ul li {
+        width: 100%;
+    }
+    .bpo-heading {
+     padding-top: 2% !important;
+    margin-bottom:7% !important;
+    }
+}
+@media only screen and (max-width: 480px) {
+  .searchsection {
+    width: 35%;
+  }
+  .brand {
+    width: 30%;
+    padding-left: 0px;
+  }
+  .sectionfield i {
+    height: 25px;
+    line-height: 25px;
+  }
+  .sectionfield .form-control {
+    height: 25px;
+  }
+  #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+    width: 24px;
+  }
+  .nav-mobile {
+    width: 40px;
+    top: 0px;
+  }
+  .about-us h3:before {
+    width: 30px;
+  }
+  .sectionheading::before {
+     height: 100px;
+     background-size: contain;
+  }
+  .testimonialfiled .testimonialcontent, .testimonialfiled .imagesection {
+    width: 100%;
+  }
+  .greenarrow.secureprint-section h3:before {
+    top: -9px;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 21%;
+}
+.contactform-section h5 {
+    padding-left: 17%;
+}
+
+}
+@media only screen and (max-width: 456px) {
+  .clientsection.compliancesection.businessbox .complianceproduct img {
+    width: auto;
+  }
+  .clientsection.compliancesection.businessbox ul li {
+    width: 96%;
+    margin-bottom: 10px;
+  }
+  .clientsection.businessbox.compliancesection ul {
+    margin-bottom: 0px;
+  }
+  .clientsection.businessbox.compliancesection ul:last-child {
+    margin-bottom: 30px;
+  }
+  .sectionfield i {
+    width: 20%;
+  }
+  .sectionfield .form-control {
+    width: 80%;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 23%;
+}
+.contactbtn {
+    margin-top:7%;
+  }
+}
+@media only screen and (max-width: 425px) {
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 79px;
+}
+    .complaincesolution.secureprint-section h3 {
+    padding-top: 24%;
+}
+}
+@media only screen and (max-width: 414px) {
+  .secureprint-section h3 {
+    font-size: 17px;
+  }
+  .compliance-section {
+    margin-top: 8%;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 25%;
+}
+}
+@media only screen and (max-width: 380px) {
+.gstgenietab .card .nav-tabs li {
+  width: 100%;
+}
+.gstgenietab .card .nav-tabs li a {
+  margin-left: 0px;
+}
+.complaincesolution.secureprint-section h3 {
+    padding-top: 28%;
+}
+}
+@media only screen and (max-width: 376px) {
+  .complaincesolution.secureprint-section h3:before {
+    top: -6px;
+  }
+
+  .bpo-heading {
+    padding-top: 2% !important;
+    margin-bottom: 9% !important;
+}
+}
+@media only screen and (max-width: 360px) {
+    .about-us h3 {
+      padding-top: 27%;
+  }
+ .complaincesolution.secureprint-section h3 {
+    padding-top: 31%;
+}
+  .secureprint-section h3 {
+    font-size: 16px;
+  }
+  .greenarrow.secureprint-section h3:before {
+    top: -7px;
+  }
+  .bpo-heading {
+    padding-top: 4% !important;
+    margin-bottom: 11% !important;
+}
+}
+@media only screen and (max-width: 320px) {
+  .secureprint-section h3 {
+    font-size: 15px;
+  }
+  .complaincesolution.secureprint-section h3 {
+    padding-top: 35%;
+}
+    .pinksolution.complaincesolution.outsourcingpage.secureprint-section.greensolution h3:before {
+        margin-top: 88px;
+    }
+    .Softwaresolution.outsourcingpage.complaincesolution.secureprint-section h3:before {
+    margin-top: 82px;
+}
+.contactform-section h3:before{
+      top: -4px;
+}
+}
